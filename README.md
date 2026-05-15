@@ -1,5 +1,7 @@
 ### EX9 Preprocessing on Twitter Data using Rapidminer
-### DATE: 
+### DATE: 15-05-2026
+### Name: RAMYA R
+### Reg No: 212223230169
 ### AIM: To implement preprocessing technique on Twitter Data using Rapidminer
 ### Description: 
 <div align = "justify">
@@ -26,5 +28,10 @@ for this purpose.
 
 
 ### Output:
+![alt text](Output-img/process.png)
 
+![alt text](Output-img/process2.png)
+
+![alt text](Output-img/output.png)
 ### Result:
+Thus, the preprocessing technique on twitter data in Rapidminer has been implemented.
